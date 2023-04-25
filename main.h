@@ -31,7 +31,7 @@ struct fmt
 };
 
 
-/**<<F2>
+/**
  * typedef struct fmt fmt_t - Struct op
  *
  * @fmt: The format.
